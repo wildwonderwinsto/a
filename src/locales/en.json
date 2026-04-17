@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title_pt1": "FIRST THING",
+    "title_pt2": "IN THE MORNING.",
+    "subtitle": "The dating app where you can't hide. No makeup. No filters. Right when you wake up. Bobby Lee made us do this.",
+    "cta": "JOIN THE WAITLIST"
+  },
+  "rules": {
+    "title": "THE RULES",
+    "items": [
+      {
+        "heading": "NO FILTERS.",
+        "description": "If it looks like you have an anime glow or smoothed skin, our AI will nuke it. You will look terrible, and that's the point."
+      },
+      {
+        "heading": "MORNINGS ONLY.",
+        "description": "Photos can only be uploaded between 5 AM and 11 AM your local time. No sneaking golden hour pics."
+      },
+      {
+        "heading": "ONE PHOTO A DAY.",
+        "description": "You take it. You post it. Everyone sees your unedited, sleep-deprived face. Zero do-overs."
+      },
+      {
+        "heading": "HUMAN VERIFIED.",
+        "description": "Bots don't have bedhead. If our community flags you for wearing makeup, you're going to the admin review queue."
+      }
+    ]
+  },
+  "origin": {
+    "title": "THE ORIGIN",
+    "quote": "There should be a dating app where everybody looks like this. First thing in the morning... The dating app where you can't hide.",
+    "attribution": "— Bad Friends Podcast"
+  },
+  "waitlist": {
+    "title": "JOIN THE CHAOS.",
+    "description": "Sign up now. We are letting people in strictly when the servers (and Bobby) decide to wake up.",
+    "email_label": "Email Address",
+    "email_placeholder": "bob@example.com",
+    "submit": "GET ON THE LIST",
+    "submitting": "SUBMITTING...",
+    "success": "You're in. We'll email you before launch."
+  },
+  "tech": {
+    "title": "THE SCIENCE OF UGLY",
+    "subtitle": "How we detect morning faces with 'military-grade' accuracy.",
+    "features": [
+      {
+        "title": "BOBBY'S BAG DETECTOR",
+        "description": "Our AI analyzes under-eye luggage. If your eye bags aren't heavy enough to carry on a flight, your photo is rejected without warning."
+      },
+      {
+        "title": "TITO ANDREW'S RAGE FILTER",
+        "description": "Built using structural analysis of Andrew Santino's red-headed morning pallor. Actively disables ring lights, bans tanning, and penalizes looking too put-together."
+      },
+      {
+        "title": "RUDY JULES ENERGY CHECK",
+        "description": "If you look too excited to be alive before 10 AM, Rudy will personally reject your application with a knife. Absolute zero-effort is the only passing grade."
+      },
+      {
+        "title": "FANCY B'S EURO-TRASH BAN",
+        "description": "Produced by Andres. Our algorithm scans for anyone wearing a beret, smoking a 'thin cigarette', or attempting to look sophisticated. Instant rejection."
+      },
+      {
+        "title": "CARLOS CREEP ALGORITHM",
+        "description": "Analyzes your face for weird late-night hookup energy. If you look like you're about to slide into someone's DMs with purely chaotic intentions, Carlos flags you."
+      },
+      {
+        "title": "MOM-LEVEL VERIFICATION",
+        "description": "Every questionable photo goes through the ultimate human verification filter: Bobby's Mom judging you with pure, unfiltered disappointment."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 First Thing In The Morning. Not officially affiliated with Bad Friends, but totally inspired by them."
+  }
+}
